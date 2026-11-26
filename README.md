@@ -10,3 +10,9 @@ En su contenido se encuentran los cuadernos de Jupyter utilizados durante la inv
 
 Este material tiene como finalidad documentar el proceso de investigación y facilitar la consulta de los métodos computacionales que respaldan los resultados presentados en el documento de tesis.
 
+Estructura del repositorio
+Archivo o carpeta	Descripción
+Notebooks/	Contiene los cuadernos de Jupyter utilizados para el desarrollo computacional de la investigación.
+Revision Data Top 10.ipynb	Contiene los procedimientos de revisión, organización y preparación de los datos de los corredores que finalizaron en el Top 10 del Tour de Francia.
+TDGMej.ipynb	Contiene el desarrollo de los modelos de clasificación y ordenamiento, la selección de variables, el ajuste de modelos y la evaluación de resultados.
+Datos/	Contiene los conjuntos de datos recopilados y procesados durante la investigación.
