@@ -11,6 +11,7 @@ En su contenido se encuentran los cuadernos de Jupyter utilizados durante la inv
 Este material tiene como finalidad documentar el proceso de investigación y facilitar la consulta de los métodos computacionales que respaldan los resultados presentados en el documento de tesis.
 
 
+
 ## Estructura del repositorio
 
 | Archivo o carpeta | Descripción |
@@ -19,3 +20,7 @@ Este material tiene como finalidad documentar el proceso de investigación y fac
 | `Revision Data Top 10.ipynb` | Contiene los procedimientos de revisión, organización y preparación de los datos de los corredores que finalizaron en el Top 10 del Tour de Francia. |
 | `TDGMej.ipynb` | Contiene el desarrollo de los modelos de clasificación y ordenamiento, la selección de variables, el ajuste de modelos y la evaluación de resultados. |
 | `Datos/` | Contiene los conjuntos de datos recopilados y procesados durante la investigación. |
+| `DataDesTop10.csv` | Contiene las variables de los ciclistas que finalizaron en el Top 10 de las ediciones del Tour de Francia entre 2006 y 2024. |
+| `PSC_GC.csv` | Contiene la información correspondiente a la variable PCS GC Ranking, obtenida del portal ProCyclingStats. |
+| `cyclingdata.csv` | Contiene información histórica de carreras de ciclismo desde sus inicios hasta 2024, incluido el Tour de Francia. Se utiliza para extraer información de las carreras correspondientes al periodo de investigación. |
+| `tour_dataset_final.csv` | Contiene las variables de los corredores y de las ediciones del Tour de Francia. Constituye el conjunto de datos base utilizado en la investigación. |
